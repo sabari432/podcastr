@@ -11,7 +11,7 @@ const Header = ({ headerTitle, titleClassName }: { headerTitle?: string; titleCl
       )}
       {/* Updated Link: No authentication check required */}
       <Link href="/podcasters" className="text-16 font-semibold text-orange-1">
-       Move all
+       See all
       </Link>
     </header>
   );
